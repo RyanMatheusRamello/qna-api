@@ -1,0 +1,14 @@
+{
+    "name": "Stars",
+    "gender": "F",
+    "age": 14,
+    "developer_year": 2023,
+    "developers": [
+        "Ryan.php.py.js"
+    ],
+    "email": "contato@starsbot.me",
+    "phone": null,
+    "discord": "Stars#6591",
+    "youtube": null,
+    "team": null
+}

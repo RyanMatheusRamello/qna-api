@@ -1,0 +1,9 @@
+[
+    {
+        "name": "bot.name",
+        "type": ["question"],
+        "value": [
+            ["nome", "nomes"]
+        ]
+    }
+]

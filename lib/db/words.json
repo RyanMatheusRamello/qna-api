@@ -1,0 +1,12 @@
+{
+    "livro": ["object", "diversion"],
+    "manga": ["object", "diversion"],
+    "conhece": ["keyword"],
+    "defina": ["keyword"],
+    "youtube": ["keyword", "diversion", "empresa"],
+    "filme": ["object", "diversion"],
+    "idade": ["keyword"],
+    "nasceu": ["keyword"],
+    "ano": ["keyword", "time"],
+    "nascer": ["keyword"]
+}
